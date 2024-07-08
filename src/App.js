@@ -12,8 +12,7 @@ function App() {
    })
   }
   return (
-    <>
-    <h1>Random Quote Generator</h1>
+   
     <div className='quote-box'>
       <div className='quote-text'>
         <p>{quot}
@@ -27,7 +26,7 @@ function App() {
       </div>
 
     </div>
-    </>
+    
   )
 }
 
